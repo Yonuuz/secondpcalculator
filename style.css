@@ -53,7 +53,7 @@ button {
     height: 48px;
     border-radius: 24px;
     border: 1px solid #5f6368;
-    background-color: #3c4043; /* Primary button color */
+    background-color: #3c4043; 
     color: #e8eaed;
     font-size: 18px;
     cursor: pointer;
@@ -65,7 +65,6 @@ button:hover {
    border-color: #9aa0a6;
 }
 
-/* Specific button styles */
 .operator {
     background-color: #303134;
 }
